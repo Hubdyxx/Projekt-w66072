@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Projekt-w66072/1.0.0": {
+        "runtime": {
+          "Projekt-w66072.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt-w66072/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
