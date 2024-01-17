@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hubdyxx/RiderProjects/Projekt-w66072/Projekt-w66072/Projekt-w66072.csproj": {}
+    "/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/Projekt-w66072.csproj": {}
   },
   "projects": {
-    "/Users/hubdyxx/RiderProjects/Projekt-w66072/Projekt-w66072/Projekt-w66072.csproj": {
+    "/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/Projekt-w66072.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hubdyxx/RiderProjects/Projekt-w66072/Projekt-w66072/Projekt-w66072.csproj",
+        "projectUniqueName": "/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/Projekt-w66072.csproj",
         "projectName": "Projekt-w66072",
-        "projectPath": "/Users/hubdyxx/RiderProjects/Projekt-w66072/Projekt-w66072/Projekt-w66072.csproj",
+        "projectPath": "/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/Projekt-w66072.csproj",
         "packagesPath": "/Users/hubdyxx/.nuget/packages/",
-        "outputPath": "/Users/hubdyxx/RiderProjects/Projekt-w66072/Projekt-w66072/obj/",
+        "outputPath": "/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hubdyxx/.nuget/NuGet/NuGet.Config"
