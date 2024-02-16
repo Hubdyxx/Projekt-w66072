@@ -74,3 +74,7 @@
 /Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/obj/Debug/net7.0/Projekt-w66072.csproj.CopyComplete
+/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/bin/Debug/net7.0/CsvHelper.dll
+/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/bin/Debug/net7.0/System.Linq.Async.dll
+/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/bin/Debug/net7.0/XMLClassDiagram.dll
+/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/bin/Debug/net7.0/Newtonsoft.Json.dll

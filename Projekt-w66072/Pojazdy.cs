@@ -1,19 +1,30 @@
+using CsvHelper.Configuration.Attributes;
+
 namespace Projekt_w66072;
 
-public class Pojazdy
+class Pojazdy
 {
-    public string Marka { get; set; }
-    public string Model { get; set; }
-    public string NumerRejestracyjny { get; set; }
-    public double PojemnoscSilnika { get; set; }
-    public string RodzajPaliwa { get; set; }
+    public string Marka { get; }
+    public string Model { get; }
+    public string NumerRejestracyjny { get; }
+    public double PojemnoscSilnika { get; }
+    public string RodzajPaliwa { get; }
 
-    public Pojazdy(string marka, string model, string numerRejestracyjny, double pojemnoscSilnika, string rodzajPaliwa)
+    public Pojazdy([Name("Marka")]string marka, [Name("Model")]string model, [Name("NumerRejestracyjny")]string numerRejestracyjny, [Name("PojemnoscSilnika")]double pojemnoscSilnika, [Name("RodzajPaliwa")]string rodzajPaliwa)
     {
         Marka = marka;
         Model = model;
         NumerRejestracyjny = numerRejestracyjny;
         PojemnoscSilnika = pojemnoscSilnika;
         RodzajPaliwa = rodzajPaliwa;
+    }
+
+    public virtual void Informacje()
+    {
+        Console.WriteLine($"Marka: {Marka}");
+        Console.WriteLine($"Model: {Model}");
+        Console.WriteLine($"Numer rejestracyjny: {NumerRejestracyjny}");
+        Console.WriteLine($"Pojemność silnika: {PojemnoscSilnika}");
+        Console.WriteLine($"Rodzaj paliwa: {RodzajPaliwa}");
     }
 }

@@ -7,22 +7,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5f86b1b-85a1-4af8-b8bd-d34e77646589" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Choppery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Motocykle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rodzinne.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samochody.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sportowe.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ścigacze.cs" afterDir="false" />
+    <list default="true" id="c5f86b1b-85a1-4af8-b8bd-d34e77646589" name="Changes" comment="1.4">
+      <change afterPath="$PROJECT_DIR$/projekt.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Projekt-w66072.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Projekt-w66072.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Pojazdy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Choppery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Choppery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Motocykle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Motocykle.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pojazdy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pojazdy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projekt-w66072.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Projekt-w66072.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rodzinne.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Rodzinne.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Samochody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Samochody.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sportowe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sportowe.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/Projekt-w66072.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/Projekt-w66072.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/Projekt-w66072.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/Projekt-w66072.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/Projekt-w66072.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/Projekt-w66072.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/Projekt-w66072.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/Projekt-w66072.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/Projekt-w66072.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/refint/Projekt-w66072.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/Projekt-w66072.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Projekt-w66072.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Projekt-w66072.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ścigacze.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ścigacze.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -59,27 +80,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Projekt-w66072.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Projekt-w66072.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/hubdyxx/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/hubdyxx/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/hubdyxx/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/hubdyxx/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
+      "/Users/hubdyxx/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
+      "/Users/hubdyxx/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Projekt-w66072" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -117,6 +139,7 @@
       <workItem from="1707055549264" duration="2212000" />
       <workItem from="1707251577368" duration="681000" />
       <workItem from="1707252261988" duration="7310000" />
+      <workItem from="1707851064337" duration="21069000" />
     </task>
     <task id="LOCAL-00001" summary="1.3">
       <option name="closed" value="true" />
@@ -158,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707252465957</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1.4">
+      <option name="closed" value="true" />
+      <created>1707851114667</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707851114667</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,10 +210,10 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="1.3" />
-    <MESSAGE value="1.4" />
     <MESSAGE value="1.0" />
     <MESSAGE value="1.1" />
     <MESSAGE value="1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
+    <MESSAGE value="1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.4" />
   </component>
 </project>

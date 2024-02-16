@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KX7D+79HLTfZxShGnnp/76WxY/XstTM0iqkFRKvGzsJ+AiJt3DCsMjjS0c7NHqaZ5eM0cph+u+BXKSSfJBkQaQ==",
+  "dgSpecHash": "5hjfghPgxUVF4aVrUycpcGR9jQh2BHRrZ78/Drzzmo5lOqmuOJ6sdoRaLiiJt4guHZ3/Np5Fc9yDNzn3xuQ13Q==",
   "success": true,
   "projectFilePath": "/Users/hubdyxx/RiderProjects/Projekt-w660722/Projekt-w66072/Projekt-w66072.csproj",
   "expectedPackageFiles": [
+    "/Users/hubdyxx/.nuget/packages/csvhelper/31.0.0/csvhelper.31.0.0.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/hubdyxx/.nuget/packages/jxnflzc.xmlclassdiagram/1.2.1/jxnflzc.xmlclassdiagram.1.2.1.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/microsoft.data.sqlite.core/7.0.7/microsoft.data.sqlite.core.7.0.7.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.7/microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
@@ -24,11 +26,13 @@
     "/Users/hubdyxx/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/Users/hubdyxx/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
+    "/Users/hubdyxx/.nuget/packages/system.linq.async/4.0.0/system.linq.async.4.0.0.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/hubdyxx/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"

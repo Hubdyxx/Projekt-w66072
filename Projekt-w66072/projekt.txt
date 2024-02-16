@@ -1,0 +1,2 @@
+Marka,Model,NumerRejestracyjny,PojemnoscSilnika,RodzajPaliwa
+suzuki,mdawd,qdqwd,234,sdf
